@@ -1,15 +1,42 @@
-<h1 align="center">Hi 👋, Greeting from Harshdeep Singh </h1>
-<h3 align="center">BS Computer Science Student at Toronto Metropolitan University (Ryerson University)</h3>
+
+### Hello World! 👋
+
+I'm Harshdeep Singh, a passionate software alchemist and Full-Stack sorcerer on a mission to turn caffeine into code. 🚀
+
+- 💻 Software Developer | Full_stack 📚 Enthusiast
+- 🎨 Crafting delightful user experiences with a touch of magic
+- 🚀 Transforming ideas into scalable and performant applications
+- 💡 Exploring the uncharted realms of technology
+
+### 🔧 Tech Stack:
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61dafb?style=flat&logo=react&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-e34c26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572b6?style=flat&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Lisp](https://img.shields.io/badge/-Lisp-black?style=flat&logo=lisp&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776ab?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Perl](https://img.shields.io/badge/-Perl-39457E?style=flat&logo=perl&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![SVG](https://img.shields.io/badge/-SVG-FFB13B?style=flat&logo=svg&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
+### 🌟 Highlights:
+
+- 🚀 Launching pixels into orbit at [Portfolio.com](https://harshdeepsingh-9.github.io/PortFolio-H1/base.html)
+- 🎸 Jamming to tunes while coding - because every line of code deserves a soundtrack!
+
+### 📫 Let's Connect:
+
+- 📷 [Instagram](https://www.instagram.com/YourInstagramHandle)
+- 💼 [LinkedIn](https://www.linkedin.com/in/harshdeep-singh-047140253/)
+- 🌐 [Personal Website](https://harshdeepsingh-9.github.io/PortFolio-H1/base.html)
 
 
-- CAREER SNAPSHOT --> “In life we don’t have UNDO, but we can REDO” I am an active learner, growing myself and working on my skill development daily, wanted to become a Cyber-Security Analyst and break into the IT sector by giving more than my 100% potential. I believe in passion into IT field which will never disconnect me from it. (A boy pushing himself since his sixteen to reach the targets).**
-
-
-<h3 align="left">Check me out at LINKEDIN:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/harshdeep-singh-047140253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mathavanp" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
- 
+Let's build a digital future together! 💻✨
