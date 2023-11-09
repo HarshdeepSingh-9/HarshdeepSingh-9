@@ -11,10 +11,8 @@ I'm Harshdeep Singh, a passionate software alchemist and Full-Stack sorcerer on 
 ### 🔧 Tech Stack:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61dafb?style=flat&logo=react&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-e34c26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572b6?style=flat&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Lisp](https://img.shields.io/badge/-Lisp-black?style=flat&logo=lisp&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
